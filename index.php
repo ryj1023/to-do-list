@@ -7,8 +7,6 @@
 	<link rel="stylesheet" href="bootstrap.min.css">
 	<link rel="stylesheet" href="style.css">
 	<script src="https://code.jquery.com/jquery.min.js"></script>
-	<script type="text/javascript" src="index.js">
-	</script>
 </head>
 <body>
 	<div class="main">
